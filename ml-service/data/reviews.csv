@@ -1,0 +1,31 @@
+text,label
+"I loved the movie, it was fantastic!",positive
+"Amazing experience, I enjoyed every moment.",positive
+"Absolutely brilliant performance by the lead actor.",positive
+"The soundtrack was beautiful, I listened to it again.",positive
+"What a delightful story, made my day.",positive
+"The product quality exceeded my expectations, highly recommend.",positive
+"Service was prompt, staff were friendly and helpful.",positive
+"Great user interface, easy to use and intuitive.",positive
+"Delicious food, would visit again.",positive
+"Fast delivery, item arrived in perfect condition.",positive
+"Absolutely horrible, I hated it.",negative
+"Worst product ever created, do not buy.",negative
+"The service was awful, very disappointing.",negative
+"I regret this purchase, broke within days.",negative
+"Terrible experience, staff were rude and unhelpful.",negative
+"Too expensive for what it offers, overpriced.",negative
+"The app crashed constantly, totally unusable.",negative
+"Food was cold and tasteless, would not recommend.",negative
+"Delivery was delayed for weeks, unacceptable.",negative
+"Poor build quality, felt cheap.",negative
+"It was okay, nothing special.",neutral
+"The movie was decent, not too bad.",neutral
+"Average experience, some things were good, some not.",neutral
+"It did the job, but could be improved.",neutral
+"Neither great nor terrible, just fine.",neutral
+"Service was acceptable but not memorable.",neutral
+"Not bad, but expected more features.",neutral
+"Mediocre taste, but portion size was adequate.",neutral
+"Fit alright, though not very comfortable.",neutral
+"Worked as described, no major issues.",neutral

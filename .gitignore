@@ -1,0 +1,8 @@
+# Ignore Node.js junk (backend & frontend)
+node_modules/
+
+# Ignore Python junk (ml-service)
+venv/
+__pycache__/
+
+# Ignore Secrets (Security Risk!)
